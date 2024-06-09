@@ -10,12 +10,20 @@
 
 
 
-### Products
+## Products
+### V3
 - DEX: [app.xspswap.finance](https://app.xspswap.finance/)
-- Launchpad: [xdc.sale](https://xdc.sale/)
-- Wallet:
-  - Android: [XSwap Wallet](https://play.google.com/store/apps/details?id=com.finance.xspswap)
-  - Apple: *in development*
-- Analytics | Charts: [analytics.xspswap.finance](https://analytics.xspswap.finance/)
+- Analytics: [info.xspswap.finance](https://info.xspswap.finance/)
+- Farming: [app.xspswap.finance/#/farm](https://app.xspswap.finance/#/farm/)
+### V2
+- DEX: [v2.xspswap.finance](https://v2.xspswap.finance/)
+- Analytics: [analytics.xspswap.finance](https://analytics.xspswap.finance/)
 - Farming and Staking Platform: [farm.xspswap.finance](https://farm.xspswap.finance/) | [xdc.farm](https://xdc.farm/)
+
+### Launchpad
+- [xdc.sale](https://xdc.sale/)
+
+### Wallets
+- Android: [XSwap Wallet](https://play.google.com/store/apps/details?id=com.finance.xspswap)
+- Apple: [XSwap Wallet](https://apps.apple.com/us/app/xswap-wallet/id1665489721)
 
