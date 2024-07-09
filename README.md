@@ -1,29 +1,8 @@
-# XSwap Protocol
-### Links
-- Website: [xspswap.finance](https://xspswap.finance/)
-- Docs: [docs.xspswap.finance](https://docs.xspswap.finance/xswap-protocol/)
-- Twitter: [@XSwapProtocol](https://twitter.com/XSwapProtocol)
-- Email: [contact@xspswap.finance](mailto:contact@xspswap.finance)
-- Telegram
-  - Chat: [@real_XSwapProtocol](https://t.me/real_XSwapProtocol)
-  - Announcement: [@real_XSwapProtocol_ANN](https://t.me/real_XSwapProtocol_ANN)
+# XSwap Protocol Issues
+This repo is created to collaborate with community. By reporting a bug or suggesting any kind of feature you are helping us to improve our applications. Please, send the link of your opened issue into our [Telegram Chat](https://t.me/real_XSwapProtocol)
 
-
-
-## Products
-### V3
-- DEX: [app.xspswap.finance](https://app.xspswap.finance/)
-- Analytics: [info.xspswap.finance](https://info.xspswap.finance/)
-- Farming: [app.xspswap.finance/#/farm](https://app.xspswap.finance/#/farm/)
-### V2
-- DEX: [v2.xspswap.finance](https://v2.xspswap.finance/)
-- Analytics: [analytics.xspswap.finance](https://analytics.xspswap.finance/)
-- Farming and Staking Platform: [farm.xspswap.finance](https://farm.xspswap.finance/) | [xdc.farm](https://xdc.farm/)
-
-### Launchpad
-- [xdc.sale](https://xdc.sale/)
-
-### Wallets
-- Android: [XSwap Wallet](https://play.google.com/store/apps/details?id=com.finance.xspswap)
-- Apple: [XSwap Wallet](https://apps.apple.com/us/app/xswap-wallet/id1665489721)
-
+## How to report a bug or suggest feature? 
+1) Open this repo
+2) Go to [Issues](https://github.com/x-swap-protocol/issues/issues) tab
+3) Click [New issue](https://github.com/x-swap-protocol/issues/issues/new/choose). You will be able to choose an issue type and use the proper template. 
+![img.png](static/issue-page-screenshot.png)
